@@ -1,0 +1,14 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 3rem;padding: 3px 2rem;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+span{
+    color: red;
+}
